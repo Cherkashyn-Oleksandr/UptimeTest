@@ -1,0 +1,6 @@
+@Cosmos_odyssey_HostAddress = http://localhost:5078
+
+GET {{Cosmos_odyssey_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

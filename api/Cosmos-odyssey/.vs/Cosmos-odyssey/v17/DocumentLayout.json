@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|c:\\users\\oleks\\uptimetask\\api\\cosmos-odyssey\\cosmos-odyssey\\controllers\\updatepricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|solutionrelative:cosmos-odyssey\\controllers\\updatepricelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|c:\\users\\oleks\\uptimetask\\api\\cosmos-odyssey\\cosmos-odyssey\\controllers\\travelofferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|solutionrelative:cosmos-odyssey\\controllers\\travelofferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|c:\\users\\oleks\\uptimetask\\api\\cosmos-odyssey\\cosmos-odyssey\\controllers\\createreservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|solutionrelative:cosmos-odyssey\\controllers\\createreservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|c:\\users\\oleks\\uptimetask\\api\\cosmos-odyssey\\cosmos-odyssey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|solutionrelative:cosmos-odyssey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|c:\\users\\oleks\\uptimetask\\api\\cosmos-odyssey\\cosmos-odyssey\\moduls\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|solutionrelative:cosmos-odyssey\\moduls\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|c:\\users\\oleks\\uptimetask\\api\\cosmos-odyssey\\cosmos-odyssey\\moduls\\traveloffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|solutionrelative:cosmos-odyssey\\moduls\\traveloffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|c:\\users\\oleks\\uptimetask\\api\\cosmos-odyssey\\cosmos-odyssey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|solutionrelative:cosmos-odyssey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|c:\\users\\oleks\\uptimetask\\api\\cosmos-odyssey\\cosmos-odyssey\\moduls\\pricelists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187B14AA-B2A2-4A90-96EB-72223771C5AC}|Cosmos-odyssey\\Cosmos-odyssey.csproj|solutionrelative:cosmos-odyssey\\moduls\\pricelists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Controllers\\CreateReservationController.cs",
+              "RelativeDocumentMoniker": "Cosmos-odyssey\\Controllers\\CreateReservationController.cs",
+              "ToolTip": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Controllers\\CreateReservationController.cs",
+              "RelativeToolTip": "Cosmos-odyssey\\Controllers\\CreateReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:27:54.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\appsettings.json",
+              "RelativeDocumentMoniker": "Cosmos-odyssey\\appsettings.json",
+              "ToolTip": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\appsettings.json",
+              "RelativeToolTip": "Cosmos-odyssey\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T10:03:18.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservations.cs",
+              "DocumentMoniker": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Moduls\\Reservations.cs",
+              "RelativeDocumentMoniker": "Cosmos-odyssey\\Moduls\\Reservations.cs",
+              "ToolTip": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Moduls\\Reservations.cs",
+              "RelativeToolTip": "Cosmos-odyssey\\Moduls\\Reservations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:18:07.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdatePriceList.cs",
+              "DocumentMoniker": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Controllers\\UpdatePriceList.cs",
+              "RelativeDocumentMoniker": "Cosmos-odyssey\\Controllers\\UpdatePriceList.cs",
+              "ToolTip": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Controllers\\UpdatePriceList.cs",
+              "RelativeToolTip": "Cosmos-odyssey\\Controllers\\UpdatePriceList.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAwwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:03:29.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TravelOffers.cs",
+              "DocumentMoniker": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Moduls\\TravelOffers.cs",
+              "RelativeDocumentMoniker": "Cosmos-odyssey\\Moduls\\TravelOffers.cs",
+              "ToolTip": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Moduls\\TravelOffers.cs",
+              "RelativeToolTip": "Cosmos-odyssey\\Moduls\\TravelOffers.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:12:50.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pricelists.cs",
+              "DocumentMoniker": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Moduls\\Pricelists.cs",
+              "RelativeDocumentMoniker": "Cosmos-odyssey\\Moduls\\Pricelists.cs",
+              "ToolTip": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Moduls\\Pricelists.cs",
+              "RelativeToolTip": "Cosmos-odyssey\\Moduls\\Pricelists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:12:49.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravelOffersController.cs",
+              "DocumentMoniker": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Controllers\\TravelOffersController.cs",
+              "RelativeDocumentMoniker": "Cosmos-odyssey\\Controllers\\TravelOffersController.cs",
+              "ToolTip": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Controllers\\TravelOffersController.cs",
+              "RelativeToolTip": "Cosmos-odyssey\\Controllers\\TravelOffersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:04:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Program.cs",
+              "RelativeDocumentMoniker": "Cosmos-odyssey\\Program.cs",
+              "ToolTip": "C:\\Users\\oleks\\UptimeTask\\api\\Cosmos-odyssey\\Cosmos-odyssey\\Program.cs",
+              "RelativeToolTip": "Cosmos-odyssey\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:25:30.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

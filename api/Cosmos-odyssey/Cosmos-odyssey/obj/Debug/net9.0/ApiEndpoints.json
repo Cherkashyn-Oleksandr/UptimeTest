@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "Cosmos_odyssey.Controllers.CreateReservationController",
+    "Method": "CreateReservation",
+    "RelativePath": "api/CreateReservation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reservation",
+        "Type": "Cosmos_odyssey.Moduls.Reservations",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cosmos_odyssey.Controllers.TravelOffersController",
+    "Method": "GetTravelOffers",
+    "RelativePath": "api/TravelOffers/{fromPlanet}/{toPlanet}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromPlanet",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "toPlanet",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Cosmos_odyssey.Controllers.UpdatePriceList",
+    "Method": "GetPriceList",
+    "RelativePath": "api/UpdatePriceList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
