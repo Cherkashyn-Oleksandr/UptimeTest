@@ -10,7 +10,7 @@ this is test app
 - **MySQL Google Cloud Database**
 
 ## Sql Database
-![image](https://github.com/user-attachments/assets/4c2f2b04-7f5d-4cc5-ba08-022739033ae1)
+![image](SQLDatabase.png)
 
 
 ## Running the application
